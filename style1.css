@@ -1,0 +1,56 @@
+
+*{
+    background-color: rgb(232, 253, 232);
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding: 0%;
+    margin: 0%;
+}
+
+.Explore-body h3{
+    padding-top: 20px;
+    padding-left:  10px;
+    color: black;
+    font-weight: bold;
+    text-shadow: 1px 1px 2px rgb(80, 79, 80);
+    text-decoration: underline;
+    text-decoration-color: rgb(255, 115, 0);
+
+
+}
+
+.Explore-body .list{
+    padding-left: 30px ;
+}
+
+.list li{
+    color: black;
+}
+
+.list li h5{
+    font-weight: bold;
+}
+
+.Explore-body button{
+    margin-top:15px;
+    margin-bottom: 20px;
+    position: relative;
+    margin-left: 15px;
+    background: transparent;
+    border: none;
+    
+}
+
+.Explore-body button a{
+    background-color: rgb(184, 84, 2);
+    padding:10px 20px 10px 20px;
+    border-radius: 15px;
+    color: white;
+}
+.Explore-body button a:hover{
+    background-color: rgb(184, 84, 2);
+    padding:10px 20px 10px 20px;
+    border-radius: 20px;
+    text-decoration: none;
+    color:black;
+}

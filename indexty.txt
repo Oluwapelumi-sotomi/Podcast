@@ -1,0 +1,66 @@
+
+<!DOCTYPE html>
+<html>
+    <link rel="stylesheet" href= "style2.css" type="text/css" />
+    <head>
+
+</head>
+
+    <body>
+        <div class="wrapper">
+        <div class="top_nav">
+    <div class="logo"><img src="logo.png" style="width: 40px; height: 40px;"/></div>
+          <div class="nav-bar">
+             
+<ul>
+   
+    <li><a href="index.html">Start Here</a></li>
+    <li><a href="about.html">About</a></li>
+    <li><a href="courses.html">Courses</a></li>
+    <li><a href="blog.html">Blog</a></li>
+    <li><a href="podcast.html">Podcast</a></li>
+    <li><a href="ask_pat.html">Ask Pat</a></li>
+    <li><a href="resources.html">Resources</a></li>
+    <li><a href="speaking.html">Speaking</a></li>
+    <li><a href="contact.html">Contact</a></li>
+    </ul>
+          </div>
+        </div>
+        <div class="bottom_nav">
+            <ul>
+       
+                <li><a href="affiliate.html">AFFILIATE MARKETING</a></li>
+                <li><a href="blogging.html">BETTER BLOGGING</a></li>
+                <li><a href="marketing.html">EMAIL MARKETING</a></li>
+                <li><a href="podcasting.html">PODCASTING</a></li>
+                <li><a href="power.html">POWER-UP PODCASTING COURSE</a></li>
+               
+                
+            
+            
+            </ul>
+      </div>
+
+        </div>
+     </div>
+      
+    </div>
+
+    <div class="container">
+        <div class="row">
+          <div class="column1">
+            <h1 class="xlarge-font"><b>LET ME HELP YOU BUILD A PASSIVE INCOME-DRIVEN ONLINE BUSINESS</b></h1>
+            <br />
+            <p style="font-size: 25px;">Hi, I'm Pat Flynn! I'm here to show you through my own experiments exactly how you can stop trading time for money and start building 
+                a business that works for you. I'm here to show you how it works.
+            </p>
+            <br />
+            <button class="button">LEARN MORE</button>
+          </div>
+          <div class="column2">
+              <img src="pic02.jpg" width="450px" height="450px">
+          </div>
+        </div>
+      </div>
+    </body>
+</html>
